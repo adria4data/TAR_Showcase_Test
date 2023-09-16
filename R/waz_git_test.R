@@ -15,3 +15,5 @@ Model_1 <- lm(cWageZ ~ Location + cBirthT + cAgeM3c + mMarital2 + Anemia2 + mSES
 summary(Model_1)
 
 # Gabi take care of this.
+
+# test spotting the differences in the code
